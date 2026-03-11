@@ -1,14 +1,7 @@
-tree1=98
-tree2=94
-tree3=96
-tree4=90
-tree5=95
+a=20
+b=0
 
-sum=tree1+tree2+tree3+tree4+tree5
-
-print("the sum of the height of the trees is ",sum)
-
-average=sum/5
-
-print("the average height of the trees is ",average)
-
+if a>0 or b>0:
+    print("one number is true")
+else:
+    print("neither of these number is true")
