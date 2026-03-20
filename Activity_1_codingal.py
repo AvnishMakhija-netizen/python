@@ -1,5 +1,16 @@
-a=15
-b=15
 
-print(a is b)
-print(a is not b)
+
+
+num=5
+
+
+
+
+
+
+if num>0:
+
+    print("positive number")
+
+else:
+    print("negative number")
